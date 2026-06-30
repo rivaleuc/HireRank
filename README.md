@@ -10,6 +10,7 @@ field shape). The top of the ranking becomes the shortlist.
 The verb is **"rank candidates against a rubric → shortlist"** — an ordinal, multi-criterion screen,
 distinct from a single pass/fail or binary verdict.
 
+- **Live demo:** https://hirerank.pages.dev
 - **Contract (Bradbury, chain 4221):** `0xAa7F6A0a052054afb32919ad22a03905637E4Ecd`
 - **Deployed from:** `rivale` (`0xc388…51A44`)
 - **Explorer:** https://explorer-bradbury.genlayer.com/contract/0xAa7F6A0a052054afb32919ad22a03905637E4Ecd
