@@ -2,6 +2,8 @@
 
 **Rubric-scored candidate shortlisting by GenLayer consensus.**
 
+[![GenLayer](https://img.shields.io/badge/GenLayer-Bradbury-ff4d6d)](https://genlayer.com) [![chainId](https://img.shields.io/badge/chainId-4221-4dd0e1)](https://docs.genlayer.com) [![contract](https://img.shields.io/badge/contract-Python%20GenVM-8a63d2)](https://docs.genlayer.com) [![tests](https://img.shields.io/badge/tests-4%2F4%20passing-3fb950)](tests) [![frontend](https://img.shields.io/badge/frontend-React%20%2B%20Vite%20%2B%20genlayer--js-22a6f2)](app) [![live](https://img.shields.io/badge/live-hirerank.pages.dev-f59e0b)](https://hirerank.pages.dev) [![License](https://img.shields.io/badge/license-MIT-2dd4bf)](LICENSE)
+
 Post a role with a scoring rubric; candidates apply with a pitch. `screen` has every validator
 independently score **all** candidates against the rubric and rank them; the result is accepted only
 when validators agree on the **top candidate** (comparative equivalence on the top id — substance, not
